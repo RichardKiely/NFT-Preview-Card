@@ -1,0 +1,25 @@
+body{ background-color: hsl(217, 54%, 11%);}
+
+.card{ 
+
+    
+    margin: auto;
+    width: 35%;
+    border: 3px solid hsl(216, 50%, 16%);
+    padding: 10px;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 5px 10px ;
+    border-radius: 25px;
+
+}
+
+
+
+
+img{ border-radius: 25px;}
+.container {
+    padding: 2px 16px;
+  }
+span{color: white;  font-size:18px;}
+
+#line{border: 2px bottom grey}
